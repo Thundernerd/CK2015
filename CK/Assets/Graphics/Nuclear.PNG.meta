@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 89c505aae6677114fb54618354c5650a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nuclear_0
+    21300002: Nuclear_1
+    21300004: Nuclear_2
+    21300006: Nuclear_3
+    21300008: Nuclear_4
+    21300010: Nuclear_5
+    21300012: Nuclear_6
+    21300014: Nuclear_7
+    21300016: Nuclear_8
+    21300018: Nuclear_9
+    21300020: Nuclear_10
+    21300022: Nuclear_11
+    21300024: Nuclear_12
+    21300026: Nuclear_13
+    21300028: Nuclear_14
+    21300030: Nuclear_15
+    21300032: Nuclear_16
+    21300034: Nuclear_17
+    21300036: Nuclear_18
+    21300038: Nuclear_19
+    21300040: Nuclear_20
+    21300042: Nuclear_21
+    21300044: Nuclear_22
+    21300046: Nuclear_23
+    21300048: Nuclear_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Nuclear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 931
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 931
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 931
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 931
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 699
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 699
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 699
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 699
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 467
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 467
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 467
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 467
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 235
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 235
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 235
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 235
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Nuclear_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3
+        width: 320
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
